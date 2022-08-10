@@ -16,7 +16,8 @@ p {font-family: 'Nunito', sans-serif; font-size:0.9em;}
 a {text-decoration: none;}
 .chevron {width: 12px; height: fit-content; padding-bottom: 7px;}
 .tools {width:30px;}
-.skill {font-size:0.7em;}
+.tool {font-size:0.7em}
+.skill {font-size:0.9em;}
 .shadow {box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;}
 .shadow-fade {box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;}
 

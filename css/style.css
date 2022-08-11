@@ -14,7 +14,7 @@ p {font-family: 'Nunito', sans-serif; font-size:0.9em;}
 .btn-lightpink {background-color: #F7D7E3;}
 .text-pink {color:#EA4C89;}
 a {text-decoration: none;}
-.chevron {width: 12px; height: fit-content; padding-bottom: 7px;}
+.chevron {width: auto; height: 14px; padding: 0 0 7px 10px;}
 .tools {width:30px;}
 .tool {font-size:0.7em}
 .skill {font-size:0.9em;}

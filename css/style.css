@@ -8,7 +8,7 @@ p {font-family: 'Nunito', sans-serif; font-size:0.9em;}
 
 .profile {padding-left:1rem; padding-right: 1rem;}
 .photo {width:100px;}
-.location {width:10px; height: fit-content; padding-top: 5px;}
+/* .location {width:10px; height: fit-content; padding-top: 5px;} */
 .btn-pink {background-color: #EA4C89;}
 .btn:hover {background-color: #ea4c897a; border-color: transparent;}
 .btn-lightpink {background-color: #F7D7E3;}
